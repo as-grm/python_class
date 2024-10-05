@@ -4,7 +4,7 @@ Programski jezik Python je zelo razvejan jezik in podprt s široko skupnostjo od
 
 Pri predmetu **OPI** intenzivno uporabljamo Python okolje za izračun različnih zahtevnih in manj zahtevnih problemov povezanih z **dinamiko plavajočih struktur**. Tako je ta del vsebine namenjen prvim korakom v uporabi Python jezika za reševanje problemov v morskih tehnikah.
 
-Uvod v Python je tako razdeljen v šest poglavij:
+Uvod v Python je sestavljen iz šestih predavanj, v obliki interaktivnih pyhon notebook (ipynb datodetke), ki se nahajajo v mapi [lectures](https://github.com/as-grm/python_class/tree/main/lectures):
 
 1. Spoznavanje z okoljem Python (osnovne podatkovne strukture in izpisi)
 2. Različne osnovne operacije
